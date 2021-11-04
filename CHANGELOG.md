@@ -17,6 +17,9 @@ Changes since last non-beta release.
 
 *Please add entries here for your pull requests that are not yet released.*
 
+#### Changed
+- Remove the documentation entries that asked to delete the `config/webpack/production.js` file if `config.build_production_command` is present [PR 1402](https://github.com/shakacode/react_on_rails/pull/1402)by [justin808](https://github.com/justin808) and [gscarv13](https://github.com/gscarv13).
+
 ### [12.4.0] - 2021-09-22
 #### Added
 - ScoutAPM tracing support for server rendering [PR 1379](https://github.com/shakacode/react_on_rails/pull/1379) by [justin808](https://github.com/justin808).
